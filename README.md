@@ -7,6 +7,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malescript34/Looter/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
@@ -35,4 +36,8 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
