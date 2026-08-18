@@ -7,6 +7,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
