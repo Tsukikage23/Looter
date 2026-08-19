@@ -40,4 +40,9 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
+| [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
