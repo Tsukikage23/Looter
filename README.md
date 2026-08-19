@@ -17,6 +17,7 @@ Leetcode journey for getting naukri
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 ## Dynamic Programming
 |  |
@@ -76,4 +77,12 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
