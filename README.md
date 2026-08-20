@@ -13,6 +13,7 @@ Leetcode journey for getting naukri
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/malescript34/Looter/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
@@ -67,6 +68,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -102,5 +104,10 @@ Leetcode journey for getting naukri
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
