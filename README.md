@@ -17,6 +17,7 @@ Leetcode journey for getting naukri
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
@@ -122,9 +123,11 @@ Leetcode journey for getting naukri
 | ------- |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
