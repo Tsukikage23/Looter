@@ -30,11 +30,13 @@ Leetcode journey for getting naukri
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Leetcode journey for getting naukri
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -144,4 +147,8 @@ Leetcode journey for getting naukri
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
