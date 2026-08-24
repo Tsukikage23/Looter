@@ -28,6 +28,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -102,11 +103,13 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 ## Quicksort
 |  |
 | ------- |
