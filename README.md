@@ -153,4 +153,16 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
