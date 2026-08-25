@@ -13,6 +13,7 @@ Leetcode journey for getting naukri
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/malescript34/Looter/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
@@ -61,6 +62,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Leetcode journey for getting naukri
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
+| [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -119,6 +122,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -172,4 +176,8 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/malescript34/Looter/tree/master/0100-same-tree) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
