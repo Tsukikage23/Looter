@@ -20,6 +20,7 @@ Leetcode journey for getting naukri
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/malescript34/Looter/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
+| [0890-lemonade-change](https://github.com/malescript34/Looter/tree/master/0890-lemonade-change) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
@@ -180,4 +181,5 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/malescript34/Looter/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
