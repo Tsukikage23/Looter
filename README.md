@@ -15,6 +15,7 @@ Leetcode journey for getting naukri
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/malescript34/Looter/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
@@ -60,6 +61,7 @@ Leetcode journey for getting naukri
 | [0001-two-sum](https://github.com/malescript34/Looter/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/malescript34/Looter/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
@@ -71,6 +73,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -85,6 +88,7 @@ Leetcode journey for getting naukri
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/malescript34/Looter/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
@@ -111,6 +115,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 ## String Matching
 |  |
