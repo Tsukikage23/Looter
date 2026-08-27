@@ -60,6 +60,7 @@ Leetcode journey for getting naukri
 | [0205-isomorphic-strings](https://github.com/malescript34/Looter/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -96,6 +97,7 @@ Leetcode journey for getting naukri
 | [0344-reverse-string](https://github.com/malescript34/Looter/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
@@ -204,4 +206,9 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
