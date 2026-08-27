@@ -37,6 +37,7 @@ Leetcode journey for getting naukri
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
+| [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Leetcode journey for getting naukri
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,4 +226,8 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
