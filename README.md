@@ -78,6 +78,7 @@ Leetcode journey for getting naukri
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/malescript34/Looter/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
@@ -91,6 +92,7 @@ Leetcode journey for getting naukri
 | [0125-valid-palindrome](https://github.com/malescript34/Looter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/malescript34/Looter/tree/master/0205-isomorphic-strings) |
+| [0344-reverse-string](https://github.com/malescript34/Looter/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
