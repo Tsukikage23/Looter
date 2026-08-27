@@ -61,6 +61,7 @@ Leetcode journey for getting naukri
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ Leetcode journey for getting naukri
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
@@ -127,6 +130,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
