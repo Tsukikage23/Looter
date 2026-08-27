@@ -73,6 +73,7 @@ Leetcode journey for getting naukri
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/malescript34/Looter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@ Leetcode journey for getting naukri
 | [0014-longest-common-prefix](https://github.com/malescript34/Looter/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/malescript34/Looter/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/malescript34/Looter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/malescript34/Looter/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
