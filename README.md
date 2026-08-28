@@ -10,6 +10,7 @@ Leetcode journey for getting naukri
 | [0011-container-with-most-water](https://github.com/malescript34/Looter/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/malescript34/Looter/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -45,6 +46,7 @@ Leetcode journey for getting naukri
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
@@ -89,6 +91,7 @@ Leetcode journey for getting naukri
 | [0011-container-with-most-water](https://github.com/malescript34/Looter/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/malescript34/Looter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
@@ -180,6 +183,7 @@ Leetcode journey for getting naukri
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
@@ -188,6 +192,7 @@ Leetcode journey for getting naukri
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
