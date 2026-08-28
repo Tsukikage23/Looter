@@ -1,0 +1,9 @@
+class Solution(object):
+    def maxProfit(self, prices):
+        b = 0
+        for i in range(len(prices)-1):
+            if prices[i] >= prices[i+1]:
+                continue
+            elif prices[i] < prices[i+1]:
+                b += prices[i+1] - prices[i]
+        return b
