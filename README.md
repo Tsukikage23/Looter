@@ -7,6 +7,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/malescript34/Looter/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/malescript34/Looter/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/malescript34/Looter/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
@@ -85,6 +86,7 @@ Leetcode journey for getting naukri
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/malescript34/Looter/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
@@ -215,6 +217,7 @@ Leetcode journey for getting naukri
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/malescript34/Looter/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
