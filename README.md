@@ -272,5 +272,6 @@ Leetcode journey for getting naukri
 | [0181-employees-earning-more-than-their-managers](https://github.com/malescript34/Looter/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/malescript34/Looter/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/malescript34/Looter/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0596-classes-with-at-least-5-students](https://github.com/malescript34/Looter/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/malescript34/Looter/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
