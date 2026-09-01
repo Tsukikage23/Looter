@@ -266,4 +266,8 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/malescript34/Looter/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
