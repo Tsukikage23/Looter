@@ -167,6 +167,7 @@ Leetcode journey for getting naukri
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
@@ -262,6 +263,7 @@ Leetcode journey for getting naukri
 | [0083-remove-duplicates-from-sorted-list](https://github.com/malescript34/Looter/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/malescript34/Looter/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/malescript34/Looter/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
