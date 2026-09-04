@@ -12,6 +12,7 @@ Leetcode journey for getting naukri
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/malescript34/Looter/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -51,6 +52,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
@@ -271,6 +273,7 @@ Leetcode journey for getting naukri
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
