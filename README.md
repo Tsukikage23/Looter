@@ -46,6 +46,7 @@ Leetcode journey for getting naukri
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
@@ -276,6 +277,7 @@ Leetcode journey for getting naukri
 | [0160-intersection-of-two-linked-lists](https://github.com/malescript34/Looter/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/malescript34/Looter/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
