@@ -16,6 +16,7 @@ Leetcode journey for getting naukri
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/malescript34/Looter/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ Leetcode journey for getting naukri
 | [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/malescript34/Looter/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
