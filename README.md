@@ -53,6 +53,7 @@ Leetcode journey for getting naukri
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
 ## Dynamic Programming
 |  |
 | ------- |
