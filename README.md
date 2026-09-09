@@ -32,6 +32,7 @@ Leetcode journey for getting naukri
 | [0890-lemonade-change](https://github.com/malescript34/Looter/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
@@ -90,6 +91,7 @@ Leetcode journey for getting naukri
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -270,6 +272,7 @@ Leetcode journey for getting naukri
 | ------- |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Queue
 |  |
 | ------- |
