@@ -25,6 +25,7 @@ Leetcode journey for getting naukri
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/malescript34/Looter/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/malescript34/Looter/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/malescript34/Looter/tree/master/0724-find-pivot-index) |
@@ -91,6 +92,7 @@ Leetcode journey for getting naukri
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -143,6 +145,7 @@ Leetcode journey for getting naukri
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/malescript34/Looter/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
