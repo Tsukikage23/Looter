@@ -125,6 +125,7 @@ Leetcode journey for getting naukri
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/malescript34/Looter/tree/master/0953-reverse-only-letters) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/malescript34/Looter/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -225,6 +226,7 @@ Leetcode journey for getting naukri
 | [0739-daily-temperatures](https://github.com/malescript34/Looter/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/malescript34/Looter/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -291,6 +293,7 @@ Leetcode journey for getting naukri
 | [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/malescript34/Looter/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/malescript34/Looter/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
