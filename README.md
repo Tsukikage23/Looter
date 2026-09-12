@@ -189,6 +189,7 @@ Leetcode journey for getting naukri
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/malescript34/Looter/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/malescript34/Looter/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/malescript34/Looter/tree/master/0206-reverse-linked-list) |
@@ -289,6 +290,7 @@ Leetcode journey for getting naukri
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/malescript34/Looter/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/malescript34/Looter/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/malescript34/Looter/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/malescript34/Looter/tree/master/0143-reorder-list) |
