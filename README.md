@@ -37,6 +37,7 @@ Leetcode journey for getting naukri
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -54,6 +55,7 @@ Leetcode journey for getting naukri
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
@@ -325,4 +327,16 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
