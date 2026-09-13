@@ -18,6 +18,7 @@ Leetcode journey for getting naukri
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/malescript34/Looter/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
@@ -85,6 +86,7 @@ Leetcode journey for getting naukri
 | [0001-two-sum](https://github.com/malescript34/Looter/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/malescript34/Looter/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/malescript34/Looter/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/malescript34/Looter/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
@@ -276,6 +279,7 @@ Leetcode journey for getting naukri
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -307,6 +311,7 @@ Leetcode journey for getting naukri
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
@@ -316,4 +321,8 @@ Leetcode journey for getting naukri
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/malescript34/Looter/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/malescript34/Looter/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/malescript34/Looter/tree/master/0620-not-boring-movies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
