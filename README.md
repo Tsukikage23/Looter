@@ -191,6 +191,7 @@ Leetcode journey for getting naukri
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/malescript34/Looter/tree/master/0461-hamming-distance) |
 ## Recursion
 |  |
 | ------- |
