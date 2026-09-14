@@ -1,5 +1,5 @@
 # Looter
-Leetcode journey for getting naukri
+これは わたしが たべた じゃがいもです。
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
