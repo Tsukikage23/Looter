@@ -49,6 +49,7 @@
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
+| [0866-rectangle-overlap](https://github.com/malescript34/Looter/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -339,4 +340,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/malescript34/Looter/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
