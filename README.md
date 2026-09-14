@@ -1,6 +1,5 @@
 # Looter
-これは わたしが たべた じゃがいもです。
-
+**これは わたしが たべた いろいろな じゃがいもです。**
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
