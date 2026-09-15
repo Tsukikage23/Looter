@@ -48,6 +48,7 @@
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malescript34/Looter/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
@@ -297,6 +298,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
