@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/malescript34/Looter/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/malescript34/Looter/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/malescript34/Looter/tree/master/0169-majority-element) |
@@ -194,6 +195,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/malescript34/Looter/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
