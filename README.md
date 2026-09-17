@@ -55,6 +55,7 @@
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
 | [0866-rectangle-overlap](https://github.com/malescript34/Looter/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
@@ -161,6 +162,7 @@
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/malescript34/Looter/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
