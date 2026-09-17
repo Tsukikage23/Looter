@@ -50,6 +50,7 @@
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malescript34/Looter/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
@@ -78,6 +79,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
@@ -302,6 +304,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
@@ -356,4 +359,16 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/malescript34/Looter/tree/master/0866-rectangle-overlap) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
