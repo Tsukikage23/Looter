@@ -1,8 +1,7 @@
 class Solution(object):
     def sumBase(self, n, k):
-        a = []
+        sum1 = 0
         while n > 0:
-            b = n%k
-            a.append(b)
+            sum1 += n%k
             n//=k
-        return sum(a)
+        return sum1
