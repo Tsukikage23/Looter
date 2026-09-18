@@ -128,6 +128,7 @@
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
+| [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
+| [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
 ## Sliding Window
 |  |
 | ------- |
