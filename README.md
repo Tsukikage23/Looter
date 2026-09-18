@@ -359,6 +359,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/malescript34/Looter/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/malescript34/Looter/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/malescript34/Looter/tree/master/0620-not-boring-movies) |
+| [2024-calculate-special-bonus](https://github.com/malescript34/Looter/tree/master/2024-calculate-special-bonus) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
