@@ -183,6 +183,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/malescript34/Looter/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Binary Search
 |  |
