@@ -65,6 +65,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1965-sum-of-digits-in-base-k](https://github.com/malescript34/Looter/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
