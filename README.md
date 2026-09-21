@@ -65,6 +65,7 @@
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -225,6 +226,7 @@
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/malescript34/Looter/tree/master/0461-hamming-distance) |
+| [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Recursion
 |  |
