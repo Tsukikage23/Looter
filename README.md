@@ -46,6 +46,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/malescript34/Looter/tree/master/4285-smallest-stable-index-ii) |
@@ -74,6 +75,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
 ## Dynamic Programming
