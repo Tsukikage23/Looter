@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/malescript34/Looter/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/malescript34/Looter/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/malescript34/Looter/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
@@ -132,6 +133,7 @@
 | [0217-contains-duplicate](https://github.com/malescript34/Looter/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/malescript34/Looter/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
