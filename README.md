@@ -73,6 +73,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1965-sum-of-digits-in-base-k](https://github.com/malescript34/Looter/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
+| [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
@@ -382,6 +383,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -428,4 +430,16 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
