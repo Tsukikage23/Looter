@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malescript34/Looter/tree/master/0263-ugly-number) |
@@ -243,6 +244,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/malescript34/Looter/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/malescript34/Looter/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/malescript34/Looter/tree/master/0203-remove-linked-list-elements) |
@@ -354,6 +356,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/malescript34/Looter/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/malescript34/Looter/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/malescript34/Looter/tree/master/0141-linked-list-cycle) |
