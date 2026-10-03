@@ -46,6 +46,7 @@
 | [1975-minimum-distance-to-the-target-element](https://github.com/malescript34/Looter/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -277,6 +278,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/malescript34/Looter/tree/master/0724-find-pivot-index) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/malescript34/Looter/tree/master/4285-smallest-stable-index-ii) |
 ## Stack
@@ -459,4 +461,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/malescript34/Looter/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
