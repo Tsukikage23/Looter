@@ -103,6 +103,7 @@
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/malescript34/Looter/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/malescript34/Looter/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
@@ -265,6 +266,7 @@
 | [0136-single-number](https://github.com/malescript34/Looter/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/malescript34/Looter/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/malescript34/Looter/tree/master/0461-hamming-distance) |
