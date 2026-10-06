@@ -70,6 +70,7 @@
 | [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/malescript34/Looter/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/malescript34/Looter/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/malescript34/Looter/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/malescript34/Looter/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
@@ -240,6 +241,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/malescript34/Looter/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/malescript34/Looter/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
