@@ -215,6 +215,7 @@
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/malescript34/Looter/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/malescript34/Looter/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
