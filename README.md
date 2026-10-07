@@ -106,6 +106,7 @@
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4168-mirror-distance-of-an-integer](https://github.com/malescript34/Looter/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
+| [4321-digit-frequency-score](https://github.com/malescript34/Looter/tree/master/4321-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4321-digit-frequency-score](https://github.com/malescript34/Looter/tree/master/4321-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
