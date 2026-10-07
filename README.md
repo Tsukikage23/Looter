@@ -164,6 +164,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4321-digit-frequency-score](https://github.com/malescript34/Looter/tree/master/4321-digit-frequency-score) |
 ## Sorting
 |  |
@@ -255,6 +256,7 @@
 | [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
