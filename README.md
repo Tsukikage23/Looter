@@ -239,6 +239,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/malescript34/Looter/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
+| [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
