@@ -52,6 +52,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
@@ -300,6 +301,7 @@
 | [0476-number-complement](https://github.com/malescript34/Looter/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Recursion
 |  |
 | ------- |
