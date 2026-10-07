@@ -56,6 +56,7 @@
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/malescript34/Looter/tree/master/4285-smallest-stable-index-ii) |
@@ -154,6 +155,7 @@
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
