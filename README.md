@@ -241,6 +241,7 @@
 | [1205-defanging-an-ip-address](https://github.com/malescript34/Looter/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
@@ -391,6 +392,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/malescript34/Looter/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/malescript34/Looter/tree/master/1448-maximum-69-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
