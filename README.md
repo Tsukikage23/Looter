@@ -95,6 +95,7 @@
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
+| [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/malescript34/Looter/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/malescript34/Looter/tree/master/2812-find-the-maximum-achievable-number) |
@@ -207,6 +208,7 @@
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/malescript34/Looter/tree/master/0953-reverse-only-letters) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/malescript34/Looter/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
@@ -420,6 +422,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/malescript34/Looter/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
