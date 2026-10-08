@@ -51,6 +51,7 @@
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -267,6 +268,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/malescript34/Looter/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/malescript34/Looter/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -297,6 +299,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
