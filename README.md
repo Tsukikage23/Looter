@@ -270,6 +270,7 @@
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
+| [3636-check-balanced-string](https://github.com/malescript34/Looter/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
