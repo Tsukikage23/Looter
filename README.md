@@ -112,6 +112,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/malescript34/Looter/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
+| [3099-harshad-number](https://github.com/malescript34/Looter/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/malescript34/Looter/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
