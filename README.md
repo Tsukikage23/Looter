@@ -65,6 +65,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
+| [4020-elevator-requests-i](https://github.com/malescript34/Looter/tree/master/4020-elevator-requests-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4280-count-digit-appearances](https://github.com/malescript34/Looter/tree/master/4280-count-digit-appearances) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
@@ -149,6 +150,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/malescript34/Looter/tree/master/4020-elevator-requests-i) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
 | [4299-concatenate-array-with-reverse](https://github.com/malescript34/Looter/tree/master/4299-concatenate-array-with-reverse) |
 ## Hash Table
