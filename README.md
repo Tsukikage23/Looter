@@ -105,6 +105,7 @@
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [2812-find-the-maximum-achievable-number](https://github.com/malescript34/Looter/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/malescript34/Looter/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -263,6 +264,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/malescript34/Looter/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
+| [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
@@ -408,6 +410,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 ## Trie
 |  |
 | ------- |
