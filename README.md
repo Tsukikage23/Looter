@@ -64,6 +64,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4280-count-digit-appearances](https://github.com/malescript34/Looter/tree/master/4280-count-digit-appearances) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
 | [4285-smallest-stable-index-ii](https://github.com/malescript34/Looter/tree/master/4285-smallest-stable-index-ii) |
 | [4299-concatenate-array-with-reverse](https://github.com/malescript34/Looter/tree/master/4299-concatenate-array-with-reverse) |
@@ -115,6 +116,7 @@
 | [4168-mirror-distance-of-an-integer](https://github.com/malescript34/Looter/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
+| [4280-count-digit-appearances](https://github.com/malescript34/Looter/tree/master/4280-count-digit-appearances) |
 | [4321-digit-frequency-score](https://github.com/malescript34/Looter/tree/master/4321-digit-frequency-score) |
 ## Dynamic Programming
 |  |
