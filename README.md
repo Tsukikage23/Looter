@@ -188,6 +188,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malescript34/Looter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
+| [0771-jewels-and-stones](https://github.com/malescript34/Looter/tree/master/0771-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -276,6 +277,7 @@
 | [0551-student-attendance-record-i](https://github.com/malescript34/Looter/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malescript34/Looter/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/malescript34/Looter/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/malescript34/Looter/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/malescript34/Looter/tree/master/0953-reverse-only-letters) |
