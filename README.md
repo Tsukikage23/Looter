@@ -110,6 +110,7 @@
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/malescript34/Looter/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
 | [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
@@ -157,6 +158,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/malescript34/Looter/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malescript34/Looter/tree/master/2553-separate-the-digits-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
