@@ -198,6 +198,7 @@
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -308,6 +309,7 @@
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3636-check-balanced-string](https://github.com/malescript34/Looter/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -471,6 +473,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4354-unique-middle-element](https://github.com/malescript34/Looter/tree/master/4354-unique-middle-element) |
 ## Queue
 |  |
