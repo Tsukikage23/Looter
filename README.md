@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/malescript34/Looter/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/malescript34/Looter/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/malescript34/Looter/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/malescript34/Looter/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
@@ -592,4 +593,8 @@
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/malescript34/Looter/tree/master/1677-matrix-diagonal-sum) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/malescript34/Looter/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
