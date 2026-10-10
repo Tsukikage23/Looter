@@ -56,6 +56,7 @@
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/malescript34/Looter/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -115,6 +116,7 @@
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/malescript34/Looter/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/malescript34/Looter/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
@@ -307,6 +309,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/malescript34/Looter/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/malescript34/Looter/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -619,6 +622,7 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/malescript34/Looter/tree/master/1677-matrix-diagonal-sum) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Backtracking
 |  |
