@@ -208,6 +208,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/malescript34/Looter/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
@@ -309,6 +310,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/malescript34/Looter/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/malescript34/Looter/tree/master/1816-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
