@@ -334,6 +334,7 @@
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3636-check-balanced-string](https://github.com/malescript34/Looter/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
 ## Binary Search
@@ -380,6 +381,7 @@
 | [1720-decode-xored-array](https://github.com/malescript34/Looter/tree/master/1720-decode-xored-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Recursion
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Trie
 |  |
 | ------- |
