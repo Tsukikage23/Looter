@@ -7,13 +7,6 @@ class Solution(object):
                     target//=2
                     maxDoubles-=1
                     a+=1
-                    if target == 1:
-                        return a
-                    elif target % 2 == 1:
-                        target-=1
-                        a+=1
-                        if target == 1:
-                            return a
                 else:
                     target -= 1
                     a+=1
