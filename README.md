@@ -43,6 +43,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/malescript34/Looter/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -106,6 +107,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/malescript34/Looter/tree/master/1448-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -158,6 +160,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/malescript34/Looter/tree/master/0292-nim-game) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/malescript34/Looter/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
@@ -227,6 +230,7 @@
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
@@ -473,6 +477,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/malescript34/Looter/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/malescript34/Looter/tree/master/1448-maximum-69-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
