@@ -117,6 +117,7 @@
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/malescript34/Looter/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/malescript34/Looter/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
@@ -478,6 +479,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/malescript34/Looter/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/malescript34/Looter/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
