@@ -49,6 +49,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/malescript34/Looter/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/malescript34/Looter/tree/master/1720-decode-xored-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/malescript34/Looter/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
@@ -483,6 +484,7 @@
 | [1448-maximum-69-number](https://github.com/malescript34/Looter/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/malescript34/Looter/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
