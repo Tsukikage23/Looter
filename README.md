@@ -14,6 +14,7 @@
 | [0042-trapping-rain-water](https://github.com/malescript34/Looter/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/malescript34/Looter/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/malescript34/Looter/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/malescript34/Looter/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/malescript34/Looter/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/malescript34/Looter/tree/master/0136-single-number) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/malescript34/Looter/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malescript34/Looter/tree/master/0263-ugly-number) |
