@@ -95,6 +95,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/malescript34/Looter/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/malescript34/Looter/tree/master/0263-ugly-number) |
@@ -172,6 +173,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -286,6 +288,7 @@
 | [0020-valid-parentheses](https://github.com/malescript34/Looter/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/malescript34/Looter/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/malescript34/Looter/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/malescript34/Looter/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/malescript34/Looter/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/malescript34/Looter/tree/master/0205-isomorphic-strings) |
@@ -381,6 +384,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/malescript34/Looter/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/malescript34/Looter/tree/master/0231-power-of-two) |
