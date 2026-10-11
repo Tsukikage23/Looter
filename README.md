@@ -71,6 +71,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/malescript34/Looter/tree/master/2553-separate-the-digits-in-an-array) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/malescript34/Looter/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -623,6 +624,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Prime Factorization
 |  |
 | ------- |
