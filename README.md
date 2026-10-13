@@ -46,6 +46,7 @@
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1480-running-sum-of-1d-array](https://github.com/malescript34/Looter/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/malescript34/Looter/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -447,6 +448,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/malescript34/Looter/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/malescript34/Looter/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [4284-smallest-stable-index-i](https://github.com/malescript34/Looter/tree/master/4284-smallest-stable-index-i) |
