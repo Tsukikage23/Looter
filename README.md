@@ -82,6 +82,7 @@
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
@@ -255,6 +256,7 @@
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/malescript34/Looter/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Trie
 |  |
