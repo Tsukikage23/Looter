@@ -336,6 +336,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/malescript34/Looter/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/malescript34/Looter/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1592-rearrange-spaces-between-words](https://github.com/malescript34/Looter/tree/master/1592-rearrange-spaces-between-words) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/malescript34/Looter/tree/master/1805-number-of-different-integers-in-a-string) |
