@@ -220,6 +220,7 @@
 | [0383-ransom-note](https://github.com/malescript34/Looter/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/malescript34/Looter/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/malescript34/Looter/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/malescript34/Looter/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malescript34/Looter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
@@ -322,6 +323,7 @@
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/malescript34/Looter/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/malescript34/Looter/tree/master/0520-detect-capital) |
@@ -453,6 +455,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/malescript34/Looter/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/malescript34/Looter/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
