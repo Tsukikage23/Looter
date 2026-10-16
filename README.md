@@ -226,6 +226,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/malescript34/Looter/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/malescript34/Looter/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/malescript34/Looter/tree/master/0500-keyboard-row) |
+| [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/malescript34/Looter/tree/master/0771-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
@@ -296,6 +297,7 @@
 | [0392-is-subsequence](https://github.com/malescript34/Looter/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malescript34/Looter/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/malescript34/Looter/tree/master/0953-reverse-only-letters) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/malescript34/Looter/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -330,6 +332,7 @@
 | [0520-detect-capital](https://github.com/malescript34/Looter/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/malescript34/Looter/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/malescript34/Looter/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/malescript34/Looter/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/malescript34/Looter/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/malescript34/Looter/tree/master/0812-rotate-string) |
@@ -457,6 +460,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/malescript34/Looter/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/malescript34/Looter/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
