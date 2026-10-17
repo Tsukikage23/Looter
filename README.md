@@ -174,6 +174,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Tsukikage23/Looter/tree/master/3492-maximum-containers-on-a-ship) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -338,6 +339,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/malescript34/Looter/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/malescript34/Looter/tree/master/2551-apply-operations-to-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3636-check-balanced-string](https://github.com/malescript34/Looter/tree/master/3636-check-balanced-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -471,6 +474,7 @@
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Recursion
 |  |
