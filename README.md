@@ -92,6 +92,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -202,6 +203,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/malescript34/Looter/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/malescript34/Looter/tree/master/3271-hash-divided-string) |
+| [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [4020-elevator-requests-i](https://github.com/malescript34/Looter/tree/master/4020-elevator-requests-i) |
