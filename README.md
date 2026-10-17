@@ -169,6 +169,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Tsukikage23/Looter/tree/master/3492-maximum-containers-on-a-ship) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -297,6 +298,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/malescript34/Looter/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
