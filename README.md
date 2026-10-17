@@ -89,6 +89,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -155,6 +156,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3099-harshad-number](https://github.com/malescript34/Looter/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/malescript34/Looter/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -244,6 +246,7 @@
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
