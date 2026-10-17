@@ -90,6 +90,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tsukikage23/Looter/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -159,6 +160,7 @@
 | [3099-harshad-number](https://github.com/malescript34/Looter/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/malescript34/Looter/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tsukikage23/Looter/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
