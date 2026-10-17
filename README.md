@@ -197,6 +197,7 @@
 | [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Tsukikage23/Looter/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/malescript34/Looter/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -362,6 +363,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/malescript34/Looter/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/malescript34/Looter/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/malescript34/Looter/tree/master/1816-truncate-sentence) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/Tsukikage23/Looter/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
