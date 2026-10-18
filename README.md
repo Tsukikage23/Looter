@@ -50,6 +50,7 @@
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tsukikage23/Looter/tree/master/1441-build-an-array-with-stack-operations) |
 | [1480-running-sum-of-1d-array](https://github.com/malescript34/Looter/tree/master/1480-running-sum-of-1d-array) |
@@ -262,6 +263,7 @@
 | [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/malescript34/Looter/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/Tsukikage23/Looter/tree/master/1002-find-common-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -301,6 +303,7 @@
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/malescript34/Looter/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -717,6 +720,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
