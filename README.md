@@ -107,6 +107,7 @@
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/malescript34/Looter/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
@@ -234,6 +235,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/malescript34/Looter/tree/master/3174-clear-digits) |
 | [3271-hash-divided-string](https://github.com/malescript34/Looter/tree/master/3271-hash-divided-string) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
@@ -504,6 +506,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Recursion
