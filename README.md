@@ -109,6 +109,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -325,6 +326,7 @@
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -622,6 +624,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Trie
 |  |
@@ -758,6 +761,7 @@
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Tsukikage23/Looter/tree/master/2951-find-the-peaks) |
+| [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prime Factorization
 |  |
 | ------- |
