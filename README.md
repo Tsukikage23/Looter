@@ -169,6 +169,7 @@
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tsukikage23/Looter/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/malescript34/Looter/tree/master/3099-harshad-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/malescript34/Looter/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3280-convert-date-to-binary](https://github.com/Tsukikage23/Looter/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tsukikage23/Looter/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
@@ -417,6 +418,7 @@
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/malescript34/Looter/tree/master/3210-find-the-encrypted-string) |
 | [3271-hash-divided-string](https://github.com/malescript34/Looter/tree/master/3271-hash-divided-string) |
+| [3280-convert-date-to-binary](https://github.com/Tsukikage23/Looter/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/malescript34/Looter/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/malescript34/Looter/tree/master/3462-vowels-game-in-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
