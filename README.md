@@ -88,6 +88,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/malescript34/Looter/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Tsukikage23/Looter/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/malescript34/Looter/tree/master/2574-left-and-right-sum-differences) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Tsukikage23/Looter/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
@@ -616,6 +617,7 @@
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2405-optimal-partition-of-string](https://github.com/malescript34/Looter/tree/master/2405-optimal-partition-of-string) |
 | [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Tsukikage23/Looter/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
