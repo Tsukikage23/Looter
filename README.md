@@ -95,6 +95,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
+| [3285-find-indices-of-stable-mountains](https://github.com/Tsukikage23/Looter/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Tsukikage23/Looter/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tsukikage23/Looter/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
