@@ -46,6 +46,7 @@
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1002-find-common-characters](https://github.com/Tsukikage23/Looter/tree/master/1002-find-common-characters) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
@@ -139,6 +140,7 @@
 | [0504-base-7](https://github.com/malescript34/Looter/tree/master/0504-base-7) |
 | [0866-rectangle-overlap](https://github.com/malescript34/Looter/tree/master/0866-rectangle-overlap) |
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/malescript34/Looter/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -301,6 +303,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/malescript34/Looter/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -510,6 +513,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/malescript34/Looter/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -595,6 +599,7 @@
 | [0455-assign-cookies](https://github.com/malescript34/Looter/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/malescript34/Looter/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/malescript34/Looter/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/malescript34/Looter/tree/master/1448-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -785,4 +790,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/malescript34/Looter/tree/master/0128-longest-consecutive-sequence) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
