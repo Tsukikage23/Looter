@@ -167,6 +167,7 @@
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/malescript34/Looter/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/malescript34/Looter/tree/master/2556-convert-the-temperature) |
+| [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Tsukikage23/Looter/tree/master/2651-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/malescript34/Looter/tree/master/2812-find-the-maximum-achievable-number) |
@@ -315,6 +316,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tsukikage23/Looter/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/malescript34/Looter/tree/master/2887-sort-vowels-in-a-string) |
@@ -613,6 +615,7 @@
 | [2139-minimum-moves-to-reach-target-score](https://github.com/malescript34/Looter/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2405-optimal-partition-of-string](https://github.com/malescript34/Looter/tree/master/2405-optimal-partition-of-string) |
+| [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
