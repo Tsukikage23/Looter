@@ -288,6 +288,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/malescript34/Looter/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3941-password-strength](https://github.com/Tsukikage23/Looter/tree/master/3941-password-strength) |
 | [4008-restore-finishing-order](https://github.com/malescript34/Looter/tree/master/4008-restore-finishing-order) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/malescript34/Looter/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -450,6 +451,7 @@
 | [3811-reverse-degree-of-a-string](https://github.com/malescript34/Looter/tree/master/3811-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3941-password-strength](https://github.com/Tsukikage23/Looter/tree/master/3941-password-strength) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
 ## Binary Search
