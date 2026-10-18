@@ -66,6 +66,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/malescript34/Looter/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/malescript34/Looter/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tsukikage23/Looter/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/malescript34/Looter/tree/master/2405-optimal-partition-of-string) |
@@ -394,6 +396,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
+| [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/malescript34/Looter/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/malescript34/Looter/tree/master/2032-largest-odd-number-in-string) |
@@ -759,6 +762,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/malescript34/Looter/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/malescript34/Looter/tree/master/0040-combination-sum-ii) |
+| [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
