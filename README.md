@@ -581,20 +581,24 @@
 | ------- |
 | [0100-same-tree](https://github.com/malescript34/Looter/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Tsukikage23/Looter/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/malescript34/Looter/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Tsukikage23/Looter/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/malescript34/Looter/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/malescript34/Looter/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Tsukikage23/Looter/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/malescript34/Looter/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Tsukikage23/Looter/tree/master/0112-path-sum) |
 ## Greedy
 |  |
 | ------- |
