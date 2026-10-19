@@ -170,6 +170,7 @@
 | [2235-add-two-integers](https://github.com/malescript34/Looter/tree/master/2235-add-two-integers) |
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Tsukikage23/Looter/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
 | [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/malescript34/Looter/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -729,14 +730,17 @@
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Tsukikage23/Looter/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
 ## Geometry
 |  |
 | ------- |
@@ -784,6 +788,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/malescript34/Looter/tree/master/2083-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Tsukikage23/Looter/tree/master/2951-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
