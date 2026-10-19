@@ -97,6 +97,7 @@
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/malescript34/Looter/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Tsukikage23/Looter/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/malescript34/Looter/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/Tsukikage23/Looter/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
