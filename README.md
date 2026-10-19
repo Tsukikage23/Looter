@@ -184,6 +184,7 @@
 | [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
 | [2630-alternating-digit-sum](https://github.com/malescript34/Looter/tree/master/2630-alternating-digit-sum) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Tsukikage23/Looter/tree/master/2651-calculate-delayed-arrival-time) |
+| [2652-sum-multiples](https://github.com/Tsukikage23/Looter/tree/master/2652-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/malescript34/Looter/tree/master/2812-find-the-maximum-achievable-number) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
