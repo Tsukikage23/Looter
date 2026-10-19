@@ -113,6 +113,7 @@
 | [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -334,6 +335,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
 |  |
@@ -472,6 +474,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tsukikage23/Looter/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String Matching
 |  |
 | ------- |
@@ -705,6 +708,7 @@
 | [0191-number-of-1-bits](https://github.com/malescript34/Looter/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/malescript34/Looter/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Database
 |  |
 | ------- |
@@ -814,6 +818,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/malescript34/Looter/tree/master/0347-top-k-frequent-elements) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Union-Find
 |  |
 | ------- |
