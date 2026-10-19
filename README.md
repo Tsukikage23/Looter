@@ -72,6 +72,7 @@
 | [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2058-concatenation-of-array](https://github.com/malescript34/Looter/tree/master/2058-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tsukikage23/Looter/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/malescript34/Looter/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/malescript34/Looter/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/malescript34/Looter/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -319,6 +320,7 @@
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/malescript34/Looter/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tsukikage23/Looter/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tsukikage23/Looter/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/malescript34/Looter/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
@@ -467,6 +469,7 @@
 | [0441-arranging-coins](https://github.com/malescript34/Looter/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tsukikage23/Looter/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String Matching
 |  |
 | ------- |
