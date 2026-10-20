@@ -88,6 +88,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/Tsukikage23/Looter/tree/master/2239-find-closest-number-to-zero) |
 | [2418-sort-the-people](https://github.com/Tsukikage23/Looter/tree/master/2418-sort-the-people) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/malescript34/Looter/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/malescript34/Looter/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -179,6 +180,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/malescript34/Looter/tree/master/2238-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Tsukikage23/Looter/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Tsukikage23/Looter/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/malescript34/Looter/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -300,6 +302,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/malescript34/Looter/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/Tsukikage23/Looter/tree/master/2418-sort-the-people) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/malescript34/Looter/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
@@ -687,6 +690,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tsukikage23/Looter/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Tsukikage23/Looter/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/malescript34/Looter/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [4354-unique-middle-element](https://github.com/malescript34/Looter/tree/master/4354-unique-middle-element) |
