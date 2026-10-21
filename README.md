@@ -56,6 +56,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tsukikage23/Looter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tsukikage23/Looter/tree/master/1441-build-an-array-with-stack-operations) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Tsukikage23/Looter/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/malescript34/Looter/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/malescript34/Looter/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -344,6 +345,7 @@
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/malescript34/Looter/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -804,6 +806,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/malescript34/Looter/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Tsukikage23/Looter/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tsukikage23/Looter/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
