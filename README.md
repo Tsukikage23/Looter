@@ -48,6 +48,7 @@
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1002-find-common-characters](https://github.com/Tsukikage23/Looter/tree/master/1002-find-common-characters) |
+| [1046-last-stone-weight](https://github.com/Tsukikage23/Looter/tree/master/1046-last-stone-weight) |
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -806,6 +807,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/malescript34/Looter/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Tsukikage23/Looter/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Tsukikage23/Looter/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
