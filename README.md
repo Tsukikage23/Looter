@@ -107,6 +107,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/malescript34/Looter/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/Tsukikage23/Looter/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tsukikage23/Looter/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -255,6 +256,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/malescript34/Looter/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Tsukikage23/Looter/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/malescript34/Looter/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/malescript34/Looter/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tsukikage23/Looter/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3271-hash-divided-string](https://github.com/malescript34/Looter/tree/master/3271-hash-divided-string) |
@@ -356,6 +358,7 @@
 | [2756-buy-two-chocolates](https://github.com/malescript34/Looter/tree/master/2756-buy-two-chocolates) |
 | [2784-check-if-array-is-good](https://github.com/malescript34/Looter/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/malescript34/Looter/tree/master/2887-sort-vowels-in-a-string) |
+| [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Tsukikage23/Looter/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
@@ -802,6 +805,7 @@
 | [0347-top-k-frequent-elements](https://github.com/malescript34/Looter/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/malescript34/Looter/tree/master/0948-sort-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Tsukikage23/Looter/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/Tsukikage23/Looter/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tsukikage23/Looter/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
