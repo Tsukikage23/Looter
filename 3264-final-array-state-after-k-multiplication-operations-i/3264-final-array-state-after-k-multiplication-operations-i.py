@@ -1,8 +1,10 @@
 class Solution(object):
     def getFinalState(self, nums, k, multiplier):
-        while k > 0:
-            a = min(nums)
-            b = nums.index(a)
-            nums[b] = a*multiplier
-            k-=1
-        return nums
+        a = nums[::]
+        heap = [(n,i) for i,n in enumerate(nums)]
+        heapq.heapify(heap)
+        for _ in range(k):
+            n,i = heapq.heappop(heap)
+            a[i] *= multiplier
+            heapq.heappush(heap, (a[i],i))
+        return a
