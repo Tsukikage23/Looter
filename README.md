@@ -194,6 +194,7 @@
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-strictly-palindromic-number](https://github.com/malescript34/Looter/tree/master/2481-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/malescript34/Looter/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Tsukikage23/Looter/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/malescript34/Looter/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2556-convert-the-temperature](https://github.com/malescript34/Looter/tree/master/2556-convert-the-temperature) |
 | [2578-split-with-minimum-sum](https://github.com/Tsukikage23/Looter/tree/master/2578-split-with-minimum-sum) |
