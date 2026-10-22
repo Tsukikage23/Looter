@@ -167,6 +167,7 @@
 | [0909-stone-game](https://github.com/malescript34/Looter/tree/master/0909-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Tsukikage23/Looter/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/malescript34/Looter/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tsukikage23/Looter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/malescript34/Looter/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/malescript34/Looter/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -554,6 +555,7 @@
 | [0389-find-the-difference](https://github.com/malescript34/Looter/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/malescript34/Looter/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/malescript34/Looter/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tsukikage23/Looter/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/malescript34/Looter/tree/master/1720-decode-xored-array) |
