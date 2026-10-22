@@ -65,6 +65,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/malescript34/Looter/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tsukikage23/Looter/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Tsukikage23/Looter/tree/master/1672-richest-customer-wealth) |
 | [1677-matrix-diagonal-sum](https://github.com/malescript34/Looter/tree/master/1677-matrix-diagonal-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -450,6 +451,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/malescript34/Looter/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1592-rearrange-spaces-between-words](https://github.com/malescript34/Looter/tree/master/1592-rearrange-spaces-between-words) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tsukikage23/Looter/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Tsukikage23/Looter/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/malescript34/Looter/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/Tsukikage23/Looter/tree/master/1736-latest-time-by-replacing-hidden-digits) |
