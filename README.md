@@ -318,6 +318,7 @@
 | [2824-check-if-the-number-is-fascinating](https://github.com/malescript34/Looter/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2825-minimize-string-length](https://github.com/malescript34/Looter/tree/master/2825-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/malescript34/Looter/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Tsukikage23/Looter/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Tsukikage23/Looter/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -480,6 +481,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/malescript34/Looter/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2887-sort-vowels-in-a-string](https://github.com/malescript34/Looter/tree/master/2887-sort-vowels-in-a-string) |
 | [3055-maximum-odd-binary-number](https://github.com/malescript34/Looter/tree/master/3055-maximum-odd-binary-number) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Tsukikage23/Looter/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/malescript34/Looter/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
 | [3210-find-the-encrypted-string](https://github.com/malescript34/Looter/tree/master/3210-find-the-encrypted-string) |
