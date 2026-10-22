@@ -78,6 +78,7 @@
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/malescript34/Looter/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1961-maximum-ice-cream-bars](https://github.com/malescript34/Looter/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tsukikage23/Looter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/malescript34/Looter/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Tsukikage23/Looter/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -462,6 +463,7 @@
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tsukikage23/Looter/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/malescript34/Looter/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/malescript34/Looter/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tsukikage23/Looter/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-sorting-the-sentence](https://github.com/malescript34/Looter/tree/master/1970-sorting-the-sentence) |
 | [1980-find-unique-binary-string](https://github.com/Tsukikage23/Looter/tree/master/1980-find-unique-binary-string) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/malescript34/Looter/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
