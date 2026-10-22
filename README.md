@@ -54,6 +54,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Tsukikage23/Looter/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Tsukikage23/Looter/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tsukikage23/Looter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tsukikage23/Looter/tree/master/1441-build-an-array-with-stack-operations) |
@@ -246,6 +247,7 @@
 | [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/malescript34/Looter/tree/master/0412-fizz-buzz) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Tsukikage23/Looter/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tsukikage23/Looter/tree/master/1441-build-an-array-with-stack-operations) |
 | [1920-build-array-from-permutation](https://github.com/Tsukikage23/Looter/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tsukikage23/Looter/tree/master/1945-sum-of-digits-of-string-after-convert) |
