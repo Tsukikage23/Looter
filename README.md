@@ -173,6 +173,7 @@
 | [1610-xor-operation-in-an-array](https://github.com/malescript34/Looter/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/malescript34/Looter/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/malescript34/Looter/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1688-count-of-matches-in-tournament](https://github.com/Tsukikage23/Looter/tree/master/1688-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/malescript34/Looter/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/malescript34/Looter/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1965-sum-of-digits-in-base-k](https://github.com/malescript34/Looter/tree/master/1965-sum-of-digits-in-base-k) |
@@ -250,6 +251,7 @@
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Tsukikage23/Looter/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tsukikage23/Looter/tree/master/1441-build-an-array-with-stack-operations) |
+| [1688-count-of-matches-in-tournament](https://github.com/Tsukikage23/Looter/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/Tsukikage23/Looter/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Tsukikage23/Looter/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/malescript34/Looter/tree/master/2021-remove-all-occurrences-of-a-substring) |
