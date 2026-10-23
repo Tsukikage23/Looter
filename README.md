@@ -522,6 +522,7 @@
 | [0287-find-the-duplicate-number](https://github.com/malescript34/Looter/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/malescript34/Looter/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tsukikage23/Looter/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/malescript34/Looter/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
@@ -904,4 +905,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Tsukikage23/Looter/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tsukikage23/Looter/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
