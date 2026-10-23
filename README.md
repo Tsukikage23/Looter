@@ -518,6 +518,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/malescript34/Looter/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/malescript34/Looter/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Tsukikage23/Looter/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/malescript34/Looter/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/malescript34/Looter/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/malescript34/Looter/tree/master/0367-valid-perfect-square) |
@@ -899,4 +900,8 @@
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Tsukikage23/Looter/tree/master/1791-find-center-of-star-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Tsukikage23/Looter/tree/master/3898-find-the-degree-of-each-vertex) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Tsukikage23/Looter/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
