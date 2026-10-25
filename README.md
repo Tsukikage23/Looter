@@ -226,6 +226,7 @@
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/malescript34/Looter/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3959-check-good-integer](https://github.com/Tsukikage23/Looter/tree/master/3959-check-good-integer) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Tsukikage23/Looter/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4168-mirror-distance-of-an-integer](https://github.com/malescript34/Looter/tree/master/4168-mirror-distance-of-an-integer) |
 | [4245-count-commas-in-range](https://github.com/malescript34/Looter/tree/master/4245-count-commas-in-range) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
@@ -514,6 +515,7 @@
 | [3838-weighted-word-mapping](https://github.com/Tsukikage23/Looter/tree/master/3838-weighted-word-mapping) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/malescript34/Looter/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3941-password-strength](https://github.com/Tsukikage23/Looter/tree/master/3941-password-strength) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Tsukikage23/Looter/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/malescript34/Looter/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4275-traffic-signal-color](https://github.com/malescript34/Looter/tree/master/4275-traffic-signal-color) |
 ## Binary Search
