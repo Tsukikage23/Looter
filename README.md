@@ -117,6 +117,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tsukikage23/Looter/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/malescript34/Looter/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Tsukikage23/Looter/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/Tsukikage23/Looter/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Tsukikage23/Looter/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-find-words-containing-character](https://github.com/malescript34/Looter/tree/master/3194-find-words-containing-character) |
