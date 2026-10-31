@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/malescript34/Looter/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Tsukikage23/Looter/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/malescript34/Looter/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/malescript34/Looter/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/malescript34/Looter/tree/master/0202-happy-number) |
