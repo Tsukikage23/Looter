@@ -95,6 +95,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/malescript34/Looter/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2239-find-closest-number-to-zero](https://github.com/Tsukikage23/Looter/tree/master/2239-find-closest-number-to-zero) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Tsukikage23/Looter/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/Tsukikage23/Looter/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Tsukikage23/Looter/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/malescript34/Looter/tree/master/2508-maximum-sum-of-an-hourglass) |
@@ -491,6 +492,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/malescript34/Looter/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/malescript34/Looter/tree/master/2235-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/malescript34/Looter/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Tsukikage23/Looter/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Tsukikage23/Looter/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Tsukikage23/Looter/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/malescript34/Looter/tree/master/2405-optimal-partition-of-string) |
