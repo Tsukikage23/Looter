@@ -134,6 +134,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Tsukikage23/Looter/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/malescript34/Looter/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tsukikage23/Looter/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Tsukikage23/Looter/tree/master/3745-maximize-expression-of-three-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tsukikage23/Looter/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -223,6 +224,7 @@
 | [3492-maximum-containers-on-a-ship](https://github.com/Tsukikage23/Looter/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/Tsukikage23/Looter/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tsukikage23/Looter/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Tsukikage23/Looter/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tsukikage23/Looter/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/malescript34/Looter/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/malescript34/Looter/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
