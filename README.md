@@ -54,6 +54,7 @@
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/malescript34/Looter/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Tsukikage23/Looter/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tsukikage23/Looter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Tsukikage23/Looter/tree/master/1389-create-target-array-in-the-given-order) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/malescript34/Looter/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tsukikage23/Looter/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -367,6 +368,7 @@
 | [1137-height-checker](https://github.com/malescript34/Looter/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/malescript34/Looter/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tsukikage23/Looter/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tsukikage23/Looter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tsukikage23/Looter/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/malescript34/Looter/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/malescript34/Looter/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -417,6 +419,7 @@
 | [0567-permutation-in-string](https://github.com/malescript34/Looter/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/malescript34/Looter/tree/master/0874-backspace-string-compare) |
 | [0953-reverse-only-letters](https://github.com/malescript34/Looter/tree/master/0953-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tsukikage23/Looter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/Tsukikage23/Looter/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/malescript34/Looter/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tsukikage23/Looter/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -538,6 +541,7 @@
 | [0441-arranging-coins](https://github.com/malescript34/Looter/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/malescript34/Looter/tree/master/0713-subarray-product-less-than-k) |
 | [0907-koko-eating-bananas](https://github.com/malescript34/Looter/tree/master/0907-koko-eating-bananas) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Tsukikage23/Looter/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tsukikage23/Looter/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tsukikage23/Looter/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## String Matching
